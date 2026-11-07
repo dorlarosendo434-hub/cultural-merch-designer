@@ -1,0 +1,5 @@
+interface:
+  display_name: "主体驱动文创设计"
+  short_description: "从真实景物、具体个体或原创IP生成准确且可生产的异形文创方案"
+  brand_color: "#C95B32"
+  default_prompt: "使用 $cultural-merch-designer 为我设计一组主体准确、结构多样、可生产的文创产品。"
