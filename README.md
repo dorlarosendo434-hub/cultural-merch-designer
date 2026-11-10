@@ -84,3 +84,16 @@
 本项目采用自定义的个人非商业使用许可。个人学习、研究和非商业创作可以免费使用；收费服务、客户项目、企业生产、营销推广、付费培训、商业产品集成及其他直接或间接商业用途，均需事先取得书面授权。
 
 商业授权请通过 [GitHub Issues](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new) 联系作者，并说明使用场景、发布渠道和预计范围。完整条款见 [`LICENSE.md`](LICENSE.md)。
+
+## 关注与交流
+
+欢迎关注公众号，获取文创设计、文旅产品、视觉案例和 AI Skill 实操分享；也可以添加微信进群，交流文创设计与 AI 创作工作流。非诚勿扰。
+
+添加微信时，日常交流请备注 **「AI交流」**；商业授权请备注 **「文创授权」**，并说明使用场景、发布渠道和预计范围。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>添加微信</strong><br><sub>日常交流备注「AI交流」；商业合作备注「文创授权」</sub><br><img src="assets/contact/wechat.png" alt="微信二维码" width="300"></td>
+    <td width="50%" align="center"><strong>关注公众号</strong><br><sub>获取文创设计与 Skill 实操案例</sub><br><img src="assets/contact/wechat-official-account.jpg" alt="公众号二维码" width="300"></td>
+  </tr>
+</table>

@@ -15,7 +15,7 @@
 - 将本项目打包、嵌入或集成到商业产品、商业软件、商业工作流或商业服务中；
 - 以盈利为目的分发、转售、再许可本项目或其衍生版本。
 
-商业授权请通过 [GitHub Issues](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new) 联系作者，说明使用场景、发布渠道和预计范围。
+商业授权请通过 [GitHub Issues](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new) 联系作者，或使用 README 最末端的微信二维码并备注“文创授权”；请说明使用场景、发布渠道和预计范围。
 
 ## 3. 限制
 
@@ -40,6 +40,6 @@ Copyright © 2026 Bibi (`dorlarosendo434-hub`). All rights reserved.
 
 You may download, install, use, copy, and modify this repository for personal, non-commercial learning, research, experimentation, and creation. Any direct or indirect commercial use requires prior written permission from the copyright holder.
 
-Commercial licensing inquiries: [open a GitHub Issue](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new).
+Commercial licensing inquiries: [open a GitHub Issue](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new), or use the WeChat QR code at the end of the README and include “文创授权” in your request.
 
 The Chinese terms above control if this English summary conflicts with them.
