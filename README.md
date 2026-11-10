@@ -34,6 +34,39 @@
 
 > 图片为概念效果图。正式生产前仍需补充尺寸、色号、结构图、刀模图，并与供应商确认材料和工艺参数。
 
+## 三星堆文创精选
+
+本组不把文物图案简单印到不同载体上，而是把纵目、神树九鸟、金杖鱼鸟纹和大立人环握手势分别转化为纸艺互动、光影装置、传拓体验与线材收纳结构。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>九鸟神树纸雕旋影灯</strong><br><sub>最有视觉冲击</sub></td>
+    <td width="50%" align="center"><strong>纵目显影机械明信片</strong><br><sub>最有传播创意</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/sanxingdui/sacred-tree-shadow-lamp.png" alt="三星堆九鸟神树纸雕旋影灯设计"></td>
+    <td valign="top"><img src="examples/sanxingdui/mechanical-postcard.png" alt="三星堆纵目显影机械明信片设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">艺术纸 + 木底座 + 暖光灯带<br>纸雕光影 · 中高成本概念款</td>
+    <td valign="top">特种纸 + 三层模切 + 纸铆钉<br>抽拉互动 · 低至中成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>鱼鸟金杖传拓卷</strong><br><sub>最有文化互动</sub></td>
+    <td width="50%" align="center"><strong>大立人环握理线器</strong><br><sub>最具实用商品感</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/sanxingdui/gold-staff-rubbing-kit.png" alt="三星堆鱼鸟金杖传拓卷设计"></td>
+    <td valign="top"><img src="examples/sanxingdui/standing-figure-cable-organizer.png" alt="三星堆大立人环握理线器设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">宣纸 + 软质纹样板 + 环保拓印墨<br>参与式体验 · 低至中成本</td>
+    <td valign="top">食品级硅胶 + 磁扣 + 浅浮雕<br>随身收纳 · 低至中成本</td>
+  </tr>
+</table>
+
+> 三星堆案例采用两列并行展示；图片为概念效果图，正式生产前需继续验证纸艺结构、灯具安全、拓印线宽、磁扣强度及材料授权。
+
 ## 工作方式
 
 1. 核验主体、地域、真实色彩与不可画错的结构。
