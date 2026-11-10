@@ -69,6 +69,65 @@
 
 > 三星堆案例采用两列并行展示；图片为概念效果图，正式生产前需继续验证纸艺结构、灯具安全、拓印线宽、磁扣强度及材料授权。
 
+## 乌兰布和沙漠拟人 IP 案例
+
+本组以用户提供的乌兰布和沙漠原创拟人 IP 为唯一角色母版，固定深红尖帽、额心红色旋纹、琥珀色大眼、红橙赭色服饰、青绿珠饰、骆驼挂件与发光金沙瓶等识别锚点，再把角色动作、服装轮廓和随身器物转化为可生产的产品结构。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>金沙瓶流沙亚克力冰箱贴</strong><br><sub>互动主视觉款</sub></td>
+    <td width="50%" align="center"><strong>风帽旅人硅胶行李牌</strong><br><sub>旅行实用品</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/wulan-buh-ip/flowing-sand-acrylic-magnet.png" alt="乌兰布和沙漠IP金沙瓶流沙亚克力冰箱贴设计"></td>
+    <td valign="top"><img src="examples/wulan-buh-ip/hooded-traveler-luggage-tag.png" alt="乌兰布和沙漠IP风帽旅人硅胶行李牌设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">透明亚克力 + 密封流沙层 + 背磁<br>动态结构 · 中高成本</td>
+    <td valign="top">食品级硅胶 + 透明信息片 + 模压<br>旅行配件 · 中低成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>守沙记忆半透明书签</strong><br><sub>轻量入门款</sub></td>
+    <td width="50%" align="center"><strong>驼铃风帽提花零钱包</strong><br><sub>实用商品款</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/wulan-buh-ip/translucent-bookmark.png" alt="乌兰布和沙漠IP守沙记忆半透明书签设计"></td>
+    <td valign="top"><img src="examples/wulan-buh-ip/jacquard-coin-purse.png" alt="乌兰布和沙漠IP驼铃风帽提花零钱包设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">磨砂 PET + 透明丝印 + 局部 UV<br>纸品周边 · 低成本</td>
+    <td valign="top">提花布 + 拉链 + 金属驼铃挂件<br>布艺收纳 · 中等成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>守沙旅人环抱手机支架</strong><br><sub>可拆装桌面用品</sub></td>
+    <td width="50%" align="center"><strong>披风沙丘三层立体明信片</strong><br><sub>可折平纸艺纪念品</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/wulan-buh-ip/bamboo-phone-stand.png" alt="乌兰布和沙漠IP守沙旅人环抱手机支架设计"></td>
+    <td valign="top"><img src="examples/wulan-buh-ip/layered-postcard.png" alt="乌兰布和沙漠IP披风沙丘三层立体明信片设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">竹木板 + 榫插切割 + UV 彩印<br>桌面用品 · 中低成本</td>
+    <td valign="top">艺术纸 + 三层模切 + 折叠纸铆<br>立体纸艺 · 低至中成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>乌兰布和旅途印章套组</strong><br><sub>文化互动款</sub></td>
+    <td width="50%" align="center"><strong>守沙三件珐琅胸针组</strong><br><sub>可拆售配饰款</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/wulan-buh-ip/travel-stamp-set.png" alt="乌兰布和沙漠IP旅途印章套组设计"></td>
+    <td valign="top"><img src="examples/wulan-buh-ip/enamel-pin-set.png" alt="乌兰布和沙漠IP守沙三件珐琅胸针组设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">橡胶 + 榉木柄 + 环保印泥<br>手账互动 · 中低成本</td>
+    <td valign="top">锌合金 + 软珐琅 + 电镀<br>随身配饰 · 中等成本</td>
+  </tr>
+</table>
+
+> 原创 IP 案例采用两列并行展示。图片为概念效果图，不构成生产结构图；正式打样前需继续验证流沙腔体密封、硅胶薄位强度、提花精度、榫插稳定性、印章线宽和珐琅隔线。
+
+更完整的角色锚点、选款建议和打样注意事项见 [`examples/wulan-buh-ip/README.md`](examples/wulan-buh-ip/README.md)。
+
 ## 工作方式
 
 1. 核验主体、地域、真实色彩与不可画错的结构。
