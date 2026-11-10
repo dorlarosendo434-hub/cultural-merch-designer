@@ -2,6 +2,8 @@
 
 面向景点、景物、植物、动物、器物与原创 IP 的文创设计 Skill。先核验真实主体，再从产品、材质、工艺、结构和使用场景五个维度建立低同质化方案，兼顾视觉表现、成本与量产可行性。
 
+> **许可说明：**允许个人非商业使用；任何商业用途均需事先联系作者取得书面授权。详见 [`LICENSE.md`](LICENSE.md)。
+
 ## 能做什么
 
 - 通过真实摄影与可靠资料核验主体，减少花卉、动物、建筑和具体个体的误画。
@@ -76,3 +78,9 @@
 5. 输出产品类型、主体转化逻辑、基础材质、成本层级与量产风险。
 
 详细规则见 [`SKILL.md`](SKILL.md)，产品与材质组合见 [`references/product-material-library.md`](references/product-material-library.md)。
+
+## 许可与商业授权
+
+本项目采用自定义的个人非商业使用许可。个人学习、研究和非商业创作可以免费使用；收费服务、客户项目、企业生产、营销推广、付费培训、商业产品集成及其他直接或间接商业用途，均需事先取得书面授权。
+
+商业授权请通过 [GitHub Issues](https://github.com/dorlarosendo434-hub/cultural-merch-designer/issues/new) 联系作者，并说明使用场景、发布渠道和预计范围。完整条款见 [`LICENSE.md`](LICENSE.md)。
