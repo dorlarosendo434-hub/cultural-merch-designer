@@ -1,5 +1,5 @@
 interface:
   display_name: "主体驱动文创设计"
-  short_description: "从真实景物或原创IP生成主体准确、成本可控的系列文创方案"
+  short_description: "从48种产品材质组合中生成主体准确、低同质化、可量产的文创矩阵"
   brand_color: "#C95B32"
   default_prompt: "使用 $cultural-merch-designer 为我设计一组主体准确、结构多样、可生产的文创产品。"
