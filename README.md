@@ -55,9 +55,24 @@
 
 ## 深圳三角梅案例
 
-本组以深圳三角梅为同一文创主体，通过叠层纸艺、旋转数码配件和木质拼插三条不同工艺路线，展示同一植物如何转化为不同成本与使用场景的产品。
+本组以深圳三角梅为同一文创主体，通过陶瓷、香氛石膏、互动印章、叠层纸艺、旋转数码配件和木质拼插六条工艺路线，展示同一植物如何转化为不同成本与使用场景的产品。六款案例按每行三张并行展示。
 
 <table>
+  <tr>
+    <td width="33.33%" align="center"><strong>一簇鹏城陶瓷冰箱贴</strong></td>
+    <td width="33.33%" align="center"><strong>纸苞花影扩香牌</strong></td>
+    <td width="33.33%" align="center"><strong>三角梅植物印章套组</strong></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/shenzhen-bougainvillea/ceramic-fridge-magnet.png" alt="深圳三角梅陶瓷冰箱贴设计"></td>
+    <td valign="top"><img src="examples/shenzhen-bougainvillea/gypsum-aroma-plaque.png" alt="深圳三角梅香氛石膏扩香牌设计"></td>
+    <td valign="top"><img src="examples/shenzhen-bougainvillea/botanical-stamp-set.png" alt="深圳三角梅植物印章套组设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">釉面陶瓷 + 背磁 + 浅浮雕<br>核心旅游纪念品 · 中低成本</td>
+    <td valign="top">香氛石膏 + 棉绳 + 低浮雕<br>家居香氛 · 低成本</td>
+    <td valign="top">橡胶 + 榉木柄 + 环保印泥<br>互动纸品工具 · 中低成本</td>
+  </tr>
   <tr>
     <td width="33.33%" align="center"><strong>鹏城花廊透窗明信片</strong></td>
     <td width="33.33%" align="center"><strong>三苞花芯旋转手机支架</strong></td>
