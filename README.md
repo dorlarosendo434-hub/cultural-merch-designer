@@ -4,6 +4,53 @@
 
 > **许可说明：**允许个人非商业使用；任何商业用途均需事先联系作者取得书面授权。详见 [`LICENSE.md`](LICENSE.md)。
 
+## 最新精选案例｜昆明蓝楹花
+
+本组先以真实摄影和植物资料核验蓝花楹的蓝紫色钟状花、圆锥花序与二回羽状叶，再提取昆明教场中路树冠相拥形成花廊的地域特征。六款分别采用光栅纸艺、蚀刻金属、立体陶瓷、功能织物、软珐琅和木质拼插工艺，避免把同一花卉插画简单复制到不同载体。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>紫雾长街光栅明信片</strong><br><sub>主推旅游纪念款</sub></td>
+    <td width="50%" align="center"><strong>蓝楹花冠镂空书签</strong><br><sub>低成本阅读周边</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/kunming-jacaranda/lenticular-postcard.png" alt="昆明蓝楹花紫雾长街光栅明信片设计"></td>
+    <td valign="top"><img src="examples/kunming-jacaranda/brass-bookmark.png" alt="昆明蓝楹花花冠镂空金属书签设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">PET 光栅片 + 卡纸 + 光栅印刷<br>角度切换初花与盛花 · 低中成本</td>
+    <td valign="top">黄铜薄片 + 蚀刻镂空 + 局部填色<br>负形花序与羽状叶 · 低中成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>蓝楹花铃陶瓷线香座</strong><br><sub>高质感居家款</sub></td>
+    <td width="50%" align="center"><strong>春城蓝楹花冠折叠伞</strong><br><sub>主推实用商品款</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/kunming-jacaranda/ceramic-incense-holder.png" alt="昆明蓝楹花铃陶瓷线香座设计"></td>
+    <td valign="top"><img src="examples/kunming-jacaranda/folding-umbrella.png" alt="昆明蓝楹花冠折叠伞设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">釉面陶瓷 + 注浆成型 + 高温烧制<br>花冠转化为香孔 · 中等成本</td>
+    <td valign="top">RPET 伞布 + 铝合金伞骨 + 热转印<br>伞下形成树冠视角 · 中等成本</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>蓝楹枝梢珐琅胸针</strong><br><sub>入门价格带配饰</sub></td>
+    <td width="50%" align="center"><strong>蓝楹花廊木质拼插小景</strong><br><sub>礼盒陈列款</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="examples/kunming-jacaranda/enamel-brooch.png" alt="昆明蓝楹枝梢珐琅胸针设计"></td>
+    <td valign="top"><img src="examples/kunming-jacaranda/wooden-diorama.png" alt="昆明蓝楹花廊木质拼插小景设计"></td>
+  </tr>
+  <tr>
+    <td valign="top">锌合金 + 软珐琅 + 电镀<br>枝梢小型佩戴收藏 · 低中成本</td>
+    <td valign="top">椴木夹板 + 激光切割 + 榫插结构<br>无胶拼装花廊 · 中等成本</td>
+  </tr>
+</table>
+
+> 昆明案例采用两列并行展示。图片为概念效果图，不是可直接交厂的生产文件；正式生产前仍需完成尺寸、刀模、结构、分色和实物打样。
+
+完整主体识别卡、选款逻辑和打样风险见 [`examples/kunming-jacaranda/README.md`](examples/kunming-jacaranda/README.md)。
+
 ## 能做什么
 
 - 通过真实摄影与可靠资料核验主体，减少花卉、动物、建筑和具体个体的误画。
